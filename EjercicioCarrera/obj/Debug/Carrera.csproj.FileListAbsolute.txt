@@ -1,0 +1,12 @@
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\casasasas\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\casasasas\ConsoleApplication3\obj\Debug\Carrera.csprojResolveAssemblyReference.cache
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\casasasas\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\alumno\Desktop\EjercicioCarrera\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\alumno\Desktop\EjercicioCarrera\obj\Debug\ConsoleApplication3.exe
+C:\Users\alumno\Desktop\EjercicioCarrera\obj\Debug\ConsoleApplication3.pdb
+C:\Users\alumno\Desktop\EjercicioCarrera\bin\Debug\ConsoleApplication3.exe
+C:\Users\alumno\Desktop\EjercicioCarrera\bin\Debug\ConsoleApplication3.pdb
+C:\Users\alumno\Desktop\EjercicioCarrera\obj\Debug\Carrera.csprojResolveAssemblyReference.cache
